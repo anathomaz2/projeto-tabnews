@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Ta, elas saão bonitas, mas sabem colocar um site no ar?   </h1>
+  return <h1> This is my first site! </h1>;
 }
 
 export default Home;
