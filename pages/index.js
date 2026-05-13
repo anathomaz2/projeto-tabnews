@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Oi Emerson, o que achou do meu site? </h1>;
+  return <h1> Que massa! meu site ta no ar! </h1>;
 }
 
 export default Home;
